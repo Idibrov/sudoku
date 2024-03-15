@@ -1,0 +1,421 @@
+Enumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> mainEnumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (14/14), 51.84 KiB | 965.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Idibrov/sudoku.git
+ * [new branch]      main -> main
