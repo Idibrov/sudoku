@@ -1,6 +1,24 @@
+const { log } = require("console");
+const fs = require("fs");
+const { EOL } = require("os");
+
 function read() {
-//  Прочесть файл puzzles.txt в кодировке 'utf-8' и вернуть эти данные из функции
-//   
+  //  Прочесть файл puzzles.txt в кодировке 'utf-8' и вернуть эти данные из функции
+  //
+  let data = fs.readFileSync("puzzles.txt", "utf-8").trim();
+
+  const result = [];
+  const lines = data.split(EOL);
+
+  lines.forEach((line) => {
+    let arr = [];
+    for (let i = 0; i < line.length; i += 9) {
+      arr.push(line.substring(i, i + 9).split(''));
+    }
+    result.push(arr);
+  });
+
+  console.log(result);
 }
 
 function solve() {
@@ -24,3 +42,5 @@ function prettyBoard() {
    * Подумай, как симпатичнее его вывести.
    */
 }
+
+read();
