@@ -57,5 +57,7 @@ function prettyBoard(boards) {
   }
 }
 
+module.exports = {
+  read, prettyBoard
+}
 
-prettyBoard(read());
