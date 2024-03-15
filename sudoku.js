@@ -45,3 +45,17 @@ function prettyBoard() {
 }
 
 read();
+function printBoard(board) {
+  board.forEach((row, rowIndex) => {
+    if (rowIndex % 3 === 0 && rowIndex !== 0) {
+      console.log("-".repeat(21)); // Выводим разделитель между блоками по 3 строки
+    }
+    row.forEach((cell, cellIndex) => {
+      if (cellIndex % 3 === 0 && cellIndex !== 0) {
+        process.stdout.write("| "); // Выводим разделитель между блоками по 3 столбца
+      }
+      process.stdout.write(cell + " ");
+    });
+    console.log(); // Переход на новую строку в конце каждой строки
+  });
+}
