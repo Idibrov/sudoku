@@ -18,7 +18,7 @@ function read() {
     result.push(arr);
   });
 
-  console.log(result);
+  return result;
 }
 
 function solve(boards) {
@@ -36,12 +36,26 @@ function isSolved() {
    */
 }
 
-function prettyBoard() {
-  /**1
-   * Принимает игровое поле в том формате, в котором его вернули из функции solve.
-   * Выводит в консоль/терминал судоку.
-   * Подумай, как симпатичнее его вывести.
-   */
+function prettyBoard(boards) {
+  for (let i = 0; i < boards.length; i++) {
+    console.log(`Board ${i + 1}:`);
+    const board = boards[i];
+    for (let j = 0; j < board.length; j++) {
+      if (j % 3 === 0 && j !== 0) {
+        console.log("-".repeat(21)); 
+      }
+      const row = board[j];
+      for (let k = 0; k < row.length; k++) {
+        if (k % 3 === 0 && k !== 0) {
+          process.stdout.write("| "); 
+        }
+        process.stdout.write(row[k] + " ");
+      }
+      console.log();
+    }
+    console.log(`${EOL}${EOL}`);
+  }
 }
 
-read();
+
+prettyBoard(read());
