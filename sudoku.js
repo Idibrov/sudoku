@@ -21,11 +21,12 @@ function read() {
   console.log(result);
 }
 
-function solve() {
+function solve(boards) {
   /**
    * Принимает игровое поле в том формате, в котором его вернули из функции read.
    * Возвращает игровое поле после попытки его решить.
    */
+  console.log("Solved!");
 }
 
 function isSolved() {
